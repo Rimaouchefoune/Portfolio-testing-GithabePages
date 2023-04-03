@@ -1,4 +1,4 @@
-![image.png](C:\Users\Евгения\Desktop\portfolio)
+![котенок.jpg](C:\Users\Евгения\Desktop\portfolio)
 
 ## About me
 
