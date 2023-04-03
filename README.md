@@ -1,4 +1,4 @@
-![котенок](image\котенок.jpg)
+![котенок](https://s1.1zoom.ru/b5050/54/258698-werecat_1920x1200.jpg)
 
 ## About me
 
